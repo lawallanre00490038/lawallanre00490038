@@ -67,7 +67,7 @@ profile:
 
 ### 📌 Quick Overview
 
-- 🔭 **Current Focus:** Building **[AgentPost](https://github.com/lawallanre00490038/complain_bot)** — Architected a TypeScript, Express, and Mastra-powered agentic workflow that converts inbound customer emails into reviewed, knowledge-grounded responses with PGVector RAG retrieval for 10M+ customers.
+- 🔭 **Current Focus:** Building **[AgentPost](https://github.com/lawallanre00490038/complain_bot)** — Developed an multi agentic workflow that converts inbound customer emails into reviewed, knowledge-grounded responses with PGVector RAG retrieval for 10M+ customers.
 - 🌱 **Currently Learning:** Advanced multi-agent orchestration frameworks (Mastra, PydanticAI), cloud-native infrastructure scaling with Kubernetes, and no-code AI automation.
 - 💬 **Ask Me About:** Building production-grade RAG architectures, deploying enterprise AI agents at scale, and full-stack integration.
 - 📫 **How to Reach Me:** [lawallanre49@gmail.com](mailto:lawallanre49@gmail.com)
