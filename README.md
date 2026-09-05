@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olanrewaju-lawal/">
+  <a href="https://www.linkedin.com/in/olanrewaju-lawal-99b926148/">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/lawallanre00490038">
