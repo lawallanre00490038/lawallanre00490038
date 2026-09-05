@@ -203,20 +203,6 @@ profile:
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lawallanre00490038&show_icons=true&locale=en" alt="GitHub Overview Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawallanre00490038&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawallanre00490038&" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
 ### ☕ Support Me
